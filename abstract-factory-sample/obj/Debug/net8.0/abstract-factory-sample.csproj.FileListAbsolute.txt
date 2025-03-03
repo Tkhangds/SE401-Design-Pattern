@@ -1,0 +1,15 @@
+/home/lakhangdo/Work/DotNet/abstract-factory-sample/bin/Debug/net8.0/abstract-factory-sample
+/home/lakhangdo/Work/DotNet/abstract-factory-sample/bin/Debug/net8.0/abstract-factory-sample.deps.json
+/home/lakhangdo/Work/DotNet/abstract-factory-sample/bin/Debug/net8.0/abstract-factory-sample.runtimeconfig.json
+/home/lakhangdo/Work/DotNet/abstract-factory-sample/bin/Debug/net8.0/abstract-factory-sample.dll
+/home/lakhangdo/Work/DotNet/abstract-factory-sample/bin/Debug/net8.0/abstract-factory-sample.pdb
+/home/lakhangdo/Work/DotNet/abstract-factory-sample/obj/Debug/net8.0/abstract-factory-sample.GeneratedMSBuildEditorConfig.editorconfig
+/home/lakhangdo/Work/DotNet/abstract-factory-sample/obj/Debug/net8.0/abstract-factory-sample.AssemblyInfoInputs.cache
+/home/lakhangdo/Work/DotNet/abstract-factory-sample/obj/Debug/net8.0/abstract-factory-sample.AssemblyInfo.cs
+/home/lakhangdo/Work/DotNet/abstract-factory-sample/obj/Debug/net8.0/abstract-factory-sample.csproj.CoreCompileInputs.cache
+/home/lakhangdo/Work/DotNet/abstract-factory-sample/obj/Debug/net8.0/abstract-factory-sample.sourcelink.json
+/home/lakhangdo/Work/DotNet/abstract-factory-sample/obj/Debug/net8.0/abstract-factory-sample.dll
+/home/lakhangdo/Work/DotNet/abstract-factory-sample/obj/Debug/net8.0/refint/abstract-factory-sample.dll
+/home/lakhangdo/Work/DotNet/abstract-factory-sample/obj/Debug/net8.0/abstract-factory-sample.pdb
+/home/lakhangdo/Work/DotNet/abstract-factory-sample/obj/Debug/net8.0/abstract-factory-sample.genruntimeconfig.cache
+/home/lakhangdo/Work/DotNet/abstract-factory-sample/obj/Debug/net8.0/ref/abstract-factory-sample.dll
