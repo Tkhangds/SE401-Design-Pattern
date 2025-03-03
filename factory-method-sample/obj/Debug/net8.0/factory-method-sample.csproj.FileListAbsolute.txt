@@ -1,0 +1,14 @@
+D:\Work\project\.net\factory-method-sample\factory-method-sample\bin\Debug\net8.0\factory-method-sample.exe
+D:\Work\project\.net\factory-method-sample\factory-method-sample\bin\Debug\net8.0\factory-method-sample.deps.json
+D:\Work\project\.net\factory-method-sample\factory-method-sample\bin\Debug\net8.0\factory-method-sample.runtimeconfig.json
+D:\Work\project\.net\factory-method-sample\factory-method-sample\bin\Debug\net8.0\factory-method-sample.dll
+D:\Work\project\.net\factory-method-sample\factory-method-sample\bin\Debug\net8.0\factory-method-sample.pdb
+D:\Work\project\.net\factory-method-sample\factory-method-sample\obj\Debug\net8.0\factory-method-sample.GeneratedMSBuildEditorConfig.editorconfig
+D:\Work\project\.net\factory-method-sample\factory-method-sample\obj\Debug\net8.0\factory-method-sample.AssemblyInfoInputs.cache
+D:\Work\project\.net\factory-method-sample\factory-method-sample\obj\Debug\net8.0\factory-method-sample.AssemblyInfo.cs
+D:\Work\project\.net\factory-method-sample\factory-method-sample\obj\Debug\net8.0\factory-method-sample.csproj.CoreCompileInputs.cache
+D:\Work\project\.net\factory-method-sample\factory-method-sample\obj\Debug\net8.0\factory-method-sample.dll
+D:\Work\project\.net\factory-method-sample\factory-method-sample\obj\Debug\net8.0\refint\factory-method-sample.dll
+D:\Work\project\.net\factory-method-sample\factory-method-sample\obj\Debug\net8.0\factory-method-sample.pdb
+D:\Work\project\.net\factory-method-sample\factory-method-sample\obj\Debug\net8.0\factory-method-sample.genruntimeconfig.cache
+D:\Work\project\.net\factory-method-sample\factory-method-sample\obj\Debug\net8.0\ref\factory-method-sample.dll
