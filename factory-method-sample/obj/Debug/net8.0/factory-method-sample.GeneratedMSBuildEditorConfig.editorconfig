@@ -8,6 +8,6 @@ build_property.PlatformNeutralAssembly =
 build_property.EnforceExtendedAnalyzerRules = 
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = factory_method_sample
-build_property.ProjectDir = D:\Work\project\.net\factory-method-sample\factory-method-sample\
+build_property.ProjectDir = /home/lakhangdo/Work/DotNet/factory-method-sample/
 build_property.EnableComHosting = 
 build_property.EnableGeneratedComInterfaceComImportInterop = 

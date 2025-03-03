@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Work\\project\\.net\\factory-method-sample\\factory-method-sample\\factory-method-sample.csproj": {}
+    "/home/lakhangdo/Work/DotNet/factory-method-sample/factory-method-sample.csproj": {}
   },
   "projects": {
-    "D:\\Work\\project\\.net\\factory-method-sample\\factory-method-sample\\factory-method-sample.csproj": {
+    "/home/lakhangdo/Work/DotNet/factory-method-sample/factory-method-sample.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Work\\project\\.net\\factory-method-sample\\factory-method-sample\\factory-method-sample.csproj",
+        "projectUniqueName": "/home/lakhangdo/Work/DotNet/factory-method-sample/factory-method-sample.csproj",
         "projectName": "factory-method-sample",
-        "projectPath": "D:\\Work\\project\\.net\\factory-method-sample\\factory-method-sample\\factory-method-sample.csproj",
-        "packagesPath": "C:\\Users\\LaKhangDo\\.nuget\\packages\\",
-        "outputPath": "D:\\Work\\project\\.net\\factory-method-sample\\factory-method-sample\\obj\\",
+        "projectPath": "/home/lakhangdo/Work/DotNet/factory-method-sample/factory-method-sample.csproj",
+        "packagesPath": "/home/lakhangdo/.nuget/packages/",
+        "outputPath": "/home/lakhangdo/Work/DotNet/factory-method-sample/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\LaKhangDo\\AppData\\Roaming\\NuGet\\NuGet.Config"
+          "/home/lakhangdo/.nuget/NuGet/NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net8.0"
@@ -32,11 +32,6 @@
           "warnAsError": [
             "NU1605"
           ]
-        },
-        "restoreAuditProperties": {
-          "enableAudit": "true",
-          "auditLevel": "low",
-          "auditMode": "direct"
         }
       },
       "frameworks": {
@@ -58,7 +53,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Users\\LaKhangDo\\.dotnet\\sdk\\8.0.406/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "/usr/lib64/dotnet/sdk/8.0.112/PortableRuntimeIdentifierGraph.json"
         }
       }
     }
