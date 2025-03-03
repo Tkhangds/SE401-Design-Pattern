@@ -1,48 +1,99 @@
 ﻿using System;
 
-abstract class Logistics
+abstract class Kitchen
 {
-    public abstract Transport CreateTransport();
+    public abstract Food CreateFood();
     
-    public void SomeMethod()
+    public void ServeProcess()
     {
-        Transport transport = CreateTransport();
-        Console.WriteLine($"Using transport: {transport.Deliver()}");
+        Food food = CreateFood();
+        Console.WriteLine(food.Prepare());
+        Console.WriteLine(food.Cook());
+        Console.WriteLine(food.Serve());
     }
 }
 
-class RoadLogistics : Logistics
+class KitchenComTam : Kitchen
 {
-    public override Transport CreateTransport()
+    public override Food CreateFood()
     {
-        return new Truck();
+        return new ComTam();
     }
 }
 
-class SeaLogistics : Logistics
+class KitchenBanhMi : Kitchen
 {
-    public override Transport CreateTransport()
+    public override Food CreateFood()
     {
-        return new Ship();
+        return new BanhMi();
     }
-}
-interface Transport
-{
-    string Deliver();
 }
 
-class Truck : Transport
+class KitchenXoi : Kitchen
 {
-    public string Deliver()
+    public override Food CreateFood()
     {
-        return "Deliver On Road!";
+        return new Xoi();
     }
 }
-class Ship : Transport
+
+interface Food
 {
-    public string Deliver()
+    string Prepare();
+    string Cook();
+    string Serve();
+}
+
+class ComTam : Food
+{
+    public string Prepare()
     {
-        return "Deliver On Ship!";
+        return "Uop thit, mua gao";
+    }
+
+    public string Cook()
+    {
+        return "Nuong thit, nau com";
+    }
+
+    public string Serve()
+    {
+        return "Bo com,thit vao hop";
+    }
+}
+class BanhMi : Food
+{
+    public string Prepare()
+    {
+        return "Mua banh mi, mua trung";
+    }
+
+    public string Cook()
+    {
+        return "Cat banh mi, chien trung";
+    }
+
+    public string Serve()
+    {
+        return "Bo trung vao banh mi";
+    }
+}
+
+class Xoi : Food
+{
+    public string Prepare()
+    {
+        return "Ngam dau xanh";
+    }
+
+    public string Cook()
+    {
+        return "Nau xoi";
+    }
+
+    public string Serve()
+    {
+        return "Bo xoi vao hop";
     }
 }
 
@@ -50,12 +101,12 @@ class Program
 {
     static void Main(string[] args)
     {
-        Console.WriteLine("Road Logistics:");
-        Logistics roadLogistics = new RoadLogistics();
-        roadLogistics.SomeMethod();
+        Console.WriteLine("Quy trinh phuc vu mon com:");
+        Kitchen kitchenComTam = new KitchenComTam();
+        kitchenComTam.ServeProcess();
         
-        Console.WriteLine("\nSea Logistics:");
-        Logistics seaLogistics = new SeaLogistics();
-        seaLogistics.SomeMethod();
+        Console.WriteLine("\nQuy trinh phuc vu mon banh mi:");
+        Kitchen kitchenBanhMi = new KitchenBanhMi();
+        kitchenBanhMi.ServeProcess();
     }
 }

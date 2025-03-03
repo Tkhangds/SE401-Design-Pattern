@@ -1,59 +1,148 @@
 ﻿namespace abstract_factory_sample;
 
-abstract class Logistics
+abstract class CarFactory
 {
-    public abstract Transport CreateTransport();
-    public abstract Employee CreateEmployee();
-    public void SomeMethod()
+    public abstract Car CreateSedanCar();
+    public abstract Car CreateSUVCar();
+    public abstract Car CreateElectricCar();
+}
+
+
+class USFactory : CarFactory
+{
+    public override Car CreateSedanCar()
     {
-        Transport transport = CreateTransport();
-        Employee employee = CreateEmployee();
-        Console.WriteLine(employee.Work() + $"\nUsing transport: {transport.Deliver()}");
+        return new USSedanCar();
+    }
+
+    public override Car CreateSUVCar()
+    {
+        return new USSUVCar();
+    }
+
+    public override Car CreateElectricCar()
+    {
+        return new USElectricCar();
     }
 }
 
-class RoadLogistics : Logistics
+class ASIAFactory : CarFactory
 {
-    public override Transport CreateTransport()
+    public override Car CreateSedanCar()
     {
-        return new Truck();
+        return new ASIASedanCar();
     }
 
-    public override Employee CreateEmployee()
+    public override Car CreateSUVCar()
     {
-        return new Driver();
+        return new ASIASUVCar();
+    }
+
+    public override Car CreateElectricCar()
+    {
+        return new ASIAElectricCar();
     }
 }
 
-class SeaLogistics : Logistics
+abstract class Car
 {
-    public override Transport CreateTransport()
-    {
-        return new Ship();
-    }
+    public string Enigne;
+    public string Seat;
+    public string Size;
     
-    public override Employee CreateEmployee()
+    public string GetInfo()
     {
-        return new Sailor();
+        return $"Engine: {Enigne}, Seat: {Seat}, Size: {Size}";
     }
-}
-interface Transport
-{
-    string Deliver();
 }
 
-class Truck : Transport
+class SedanCar : Car
 {
-    public string Deliver()
+    public SedanCar()
     {
-        return "Deliver On Road!";
+        Enigne = "1.6L";
+        Seat = "4";
+        Size = "4.5m";
     }
 }
-class Ship : Transport
+
+class SUVCar : Car
 {
-    public string Deliver()
+    public SUVCar()
     {
-        return "Deliver On Ship!";
+        Enigne = "2.0L";
+        Seat = "7";
+        Size = "5.5m";
+    }
+}
+
+class ElectricCar : Car
+{
+    public ElectricCar()
+    {
+        Enigne = "Electric";
+        Seat = "4";
+        Size = "4.5m";
+    }
+}
+
+class USSedanCar : SedanCar
+{
+    public USSedanCar()
+    {
+        Enigne = "2.0L";
+        Seat = "4";
+        Size = "4.5m";
+    }
+}
+
+class USSUVCar : SUVCar
+{
+    public USSUVCar()
+    {
+        Enigne = "3.0L";
+        Seat = "7";
+        Size = "5.5m";
+    }
+}
+
+class USElectricCar : ElectricCar
+{
+    public USElectricCar()
+    {
+        Enigne = "Electric";
+        Seat = "4";
+        Size = "4.5m";
+    }
+}
+
+class ASIASedanCar : SedanCar
+{
+    public ASIASedanCar()
+    {
+        Enigne = "1.6L";
+        Seat = "4";
+        Size = "4.5m";
+    }
+}
+
+class ASIASUVCar : SUVCar
+{
+    public ASIASUVCar()
+    {
+        Enigne = "2.0L";
+        Seat = "7";
+        Size = "5.5m";
+    }
+}
+
+class ASIAElectricCar : ElectricCar
+{
+    public ASIAElectricCar()
+    {
+        Enigne = "Electric";
+        Seat = "4";
+        Size = "4.5m";
     }
 }
 
@@ -62,32 +151,16 @@ interface Employee
     string Work();
 }
 
-class Driver : Employee
-{
-    public string Work()
-    {
-        return "We driver Drive!";
-    }
-}
-
-class Sailor : Employee
-{
-    public string Work()
-    {
-        return "We sailor Sail!";
-    }
-}
-
 class Program
 {
     static void Main(string[] args)
     {
-        Console.WriteLine("Road Logistics:");
-        Logistics roadLogistics = new RoadLogistics();
-        roadLogistics.SomeMethod();
+        Console.WriteLine("Buy new car:");
+        CarFactory usFactory = new USFactory();
+        Car myCar = usFactory.CreateSedanCar();
         
-        Console.WriteLine("\nSea Logistics:");
-        Logistics seaLogistics = new SeaLogistics();
-        seaLogistics.SomeMethod();
+        Console.WriteLine("\nMy car info:");
+        Console.WriteLine(myCar.GetInfo());
+        
     }
 }
