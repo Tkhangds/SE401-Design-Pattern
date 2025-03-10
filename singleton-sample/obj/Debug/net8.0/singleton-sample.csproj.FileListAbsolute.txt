@@ -1,0 +1,15 @@
+/home/lakhangdo/Work/DotNet/SE401-Design-Pattern/singleton-sample/bin/Debug/net8.0/singleton-sample
+/home/lakhangdo/Work/DotNet/SE401-Design-Pattern/singleton-sample/bin/Debug/net8.0/singleton-sample.deps.json
+/home/lakhangdo/Work/DotNet/SE401-Design-Pattern/singleton-sample/bin/Debug/net8.0/singleton-sample.runtimeconfig.json
+/home/lakhangdo/Work/DotNet/SE401-Design-Pattern/singleton-sample/bin/Debug/net8.0/singleton-sample.dll
+/home/lakhangdo/Work/DotNet/SE401-Design-Pattern/singleton-sample/bin/Debug/net8.0/singleton-sample.pdb
+/home/lakhangdo/Work/DotNet/SE401-Design-Pattern/singleton-sample/obj/Debug/net8.0/singleton-sample.GeneratedMSBuildEditorConfig.editorconfig
+/home/lakhangdo/Work/DotNet/SE401-Design-Pattern/singleton-sample/obj/Debug/net8.0/singleton-sample.AssemblyInfoInputs.cache
+/home/lakhangdo/Work/DotNet/SE401-Design-Pattern/singleton-sample/obj/Debug/net8.0/singleton-sample.AssemblyInfo.cs
+/home/lakhangdo/Work/DotNet/SE401-Design-Pattern/singleton-sample/obj/Debug/net8.0/singleton-sample.csproj.CoreCompileInputs.cache
+/home/lakhangdo/Work/DotNet/SE401-Design-Pattern/singleton-sample/obj/Debug/net8.0/singleton-sample.sourcelink.json
+/home/lakhangdo/Work/DotNet/SE401-Design-Pattern/singleton-sample/obj/Debug/net8.0/singleton-sample.dll
+/home/lakhangdo/Work/DotNet/SE401-Design-Pattern/singleton-sample/obj/Debug/net8.0/refint/singleton-sample.dll
+/home/lakhangdo/Work/DotNet/SE401-Design-Pattern/singleton-sample/obj/Debug/net8.0/singleton-sample.pdb
+/home/lakhangdo/Work/DotNet/SE401-Design-Pattern/singleton-sample/obj/Debug/net8.0/singleton-sample.genruntimeconfig.cache
+/home/lakhangdo/Work/DotNet/SE401-Design-Pattern/singleton-sample/obj/Debug/net8.0/ref/singleton-sample.dll
