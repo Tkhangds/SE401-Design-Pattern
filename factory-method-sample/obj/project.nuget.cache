@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "W7UK3dXFWWY=",
+  "dgSpecHash": "VPqEQP66CLo=",
   "success": true,
-  "projectFilePath": "/home/lakhangdo/Work/DotNet/factory-method-sample/factory-method-sample.csproj",
+  "projectFilePath": "/home/lakhangdo/Work/DotNet/SE401-Design-Pattern/factory-method-sample/factory-method-sample.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

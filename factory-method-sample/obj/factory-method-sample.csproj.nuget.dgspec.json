@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/home/lakhangdo/Work/DotNet/factory-method-sample/factory-method-sample.csproj": {}
+    "/home/lakhangdo/Work/DotNet/SE401-Design-Pattern/factory-method-sample/factory-method-sample.csproj": {}
   },
   "projects": {
-    "/home/lakhangdo/Work/DotNet/factory-method-sample/factory-method-sample.csproj": {
+    "/home/lakhangdo/Work/DotNet/SE401-Design-Pattern/factory-method-sample/factory-method-sample.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/home/lakhangdo/Work/DotNet/factory-method-sample/factory-method-sample.csproj",
+        "projectUniqueName": "/home/lakhangdo/Work/DotNet/SE401-Design-Pattern/factory-method-sample/factory-method-sample.csproj",
         "projectName": "factory-method-sample",
-        "projectPath": "/home/lakhangdo/Work/DotNet/factory-method-sample/factory-method-sample.csproj",
+        "projectPath": "/home/lakhangdo/Work/DotNet/SE401-Design-Pattern/factory-method-sample/factory-method-sample.csproj",
         "packagesPath": "/home/lakhangdo/.nuget/packages/",
-        "outputPath": "/home/lakhangdo/Work/DotNet/factory-method-sample/obj/",
+        "outputPath": "/home/lakhangdo/Work/DotNet/SE401-Design-Pattern/factory-method-sample/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/home/lakhangdo/.nuget/NuGet/NuGet.Config"
@@ -53,7 +53,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "/usr/lib64/dotnet/sdk/8.0.112/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "/usr/lib64/dotnet/sdk/8.0.113/PortableRuntimeIdentifierGraph.json"
         }
       }
     }

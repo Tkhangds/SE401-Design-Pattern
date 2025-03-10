@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("factory-method-sample")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+61168111e2c5c9528d9d2b715823864114a9b027")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+b4541c2c76a14d6319f9ffb51f294a81902200bc")]
 [assembly: System.Reflection.AssemblyProductAttribute("factory-method-sample")]
 [assembly: System.Reflection.AssemblyTitleAttribute("factory-method-sample")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
