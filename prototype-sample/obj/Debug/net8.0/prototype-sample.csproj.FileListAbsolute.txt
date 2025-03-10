@@ -1,0 +1,15 @@
+/home/lakhangdo/Work/DotNet/SE401-Design-Pattern/prototype-sample/bin/Debug/net8.0/prototype-sample
+/home/lakhangdo/Work/DotNet/SE401-Design-Pattern/prototype-sample/bin/Debug/net8.0/prototype-sample.deps.json
+/home/lakhangdo/Work/DotNet/SE401-Design-Pattern/prototype-sample/bin/Debug/net8.0/prototype-sample.runtimeconfig.json
+/home/lakhangdo/Work/DotNet/SE401-Design-Pattern/prototype-sample/bin/Debug/net8.0/prototype-sample.dll
+/home/lakhangdo/Work/DotNet/SE401-Design-Pattern/prototype-sample/bin/Debug/net8.0/prototype-sample.pdb
+/home/lakhangdo/Work/DotNet/SE401-Design-Pattern/prototype-sample/obj/Debug/net8.0/prototype-sample.GeneratedMSBuildEditorConfig.editorconfig
+/home/lakhangdo/Work/DotNet/SE401-Design-Pattern/prototype-sample/obj/Debug/net8.0/prototype-sample.AssemblyInfoInputs.cache
+/home/lakhangdo/Work/DotNet/SE401-Design-Pattern/prototype-sample/obj/Debug/net8.0/prototype-sample.AssemblyInfo.cs
+/home/lakhangdo/Work/DotNet/SE401-Design-Pattern/prototype-sample/obj/Debug/net8.0/prototype-sample.csproj.CoreCompileInputs.cache
+/home/lakhangdo/Work/DotNet/SE401-Design-Pattern/prototype-sample/obj/Debug/net8.0/prototype-sample.sourcelink.json
+/home/lakhangdo/Work/DotNet/SE401-Design-Pattern/prototype-sample/obj/Debug/net8.0/prototype-sample.dll
+/home/lakhangdo/Work/DotNet/SE401-Design-Pattern/prototype-sample/obj/Debug/net8.0/refint/prototype-sample.dll
+/home/lakhangdo/Work/DotNet/SE401-Design-Pattern/prototype-sample/obj/Debug/net8.0/prototype-sample.pdb
+/home/lakhangdo/Work/DotNet/SE401-Design-Pattern/prototype-sample/obj/Debug/net8.0/prototype-sample.genruntimeconfig.cache
+/home/lakhangdo/Work/DotNet/SE401-Design-Pattern/prototype-sample/obj/Debug/net8.0/ref/prototype-sample.dll
