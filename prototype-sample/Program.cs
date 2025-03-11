@@ -7,6 +7,13 @@ abstract class Show
         Name = name;
         Time = time;
     }
+
+    public Show(Show show)
+    {
+        Name = show.Name;
+        Time = show.Time;
+    }
+    
     public string Name { get; set; }
     public string Time { get; set; }
     public string Type { get; init; }

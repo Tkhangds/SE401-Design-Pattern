@@ -1,0 +1,15 @@
+/home/lakhangdo/Work/DotNet/SE401-Design-Pattern/builder-pattern/bin/Debug/net8.0/builder-pattern
+/home/lakhangdo/Work/DotNet/SE401-Design-Pattern/builder-pattern/bin/Debug/net8.0/builder-pattern.deps.json
+/home/lakhangdo/Work/DotNet/SE401-Design-Pattern/builder-pattern/bin/Debug/net8.0/builder-pattern.runtimeconfig.json
+/home/lakhangdo/Work/DotNet/SE401-Design-Pattern/builder-pattern/bin/Debug/net8.0/builder-pattern.dll
+/home/lakhangdo/Work/DotNet/SE401-Design-Pattern/builder-pattern/bin/Debug/net8.0/builder-pattern.pdb
+/home/lakhangdo/Work/DotNet/SE401-Design-Pattern/builder-pattern/obj/Debug/net8.0/builder-pattern.GeneratedMSBuildEditorConfig.editorconfig
+/home/lakhangdo/Work/DotNet/SE401-Design-Pattern/builder-pattern/obj/Debug/net8.0/builder-pattern.AssemblyInfoInputs.cache
+/home/lakhangdo/Work/DotNet/SE401-Design-Pattern/builder-pattern/obj/Debug/net8.0/builder-pattern.AssemblyInfo.cs
+/home/lakhangdo/Work/DotNet/SE401-Design-Pattern/builder-pattern/obj/Debug/net8.0/builder-pattern.csproj.CoreCompileInputs.cache
+/home/lakhangdo/Work/DotNet/SE401-Design-Pattern/builder-pattern/obj/Debug/net8.0/builder-pattern.sourcelink.json
+/home/lakhangdo/Work/DotNet/SE401-Design-Pattern/builder-pattern/obj/Debug/net8.0/builder-pattern.dll
+/home/lakhangdo/Work/DotNet/SE401-Design-Pattern/builder-pattern/obj/Debug/net8.0/refint/builder-pattern.dll
+/home/lakhangdo/Work/DotNet/SE401-Design-Pattern/builder-pattern/obj/Debug/net8.0/builder-pattern.pdb
+/home/lakhangdo/Work/DotNet/SE401-Design-Pattern/builder-pattern/obj/Debug/net8.0/builder-pattern.genruntimeconfig.cache
+/home/lakhangdo/Work/DotNet/SE401-Design-Pattern/builder-pattern/obj/Debug/net8.0/ref/builder-pattern.dll
