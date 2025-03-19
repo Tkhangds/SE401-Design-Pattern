@@ -1,0 +1,15 @@
+/home/lakhangdo/Work/DotNet/SE401-Design-Pattern/adapter-sample/bin/Debug/net8.0/adapter-sample
+/home/lakhangdo/Work/DotNet/SE401-Design-Pattern/adapter-sample/bin/Debug/net8.0/adapter-sample.deps.json
+/home/lakhangdo/Work/DotNet/SE401-Design-Pattern/adapter-sample/bin/Debug/net8.0/adapter-sample.runtimeconfig.json
+/home/lakhangdo/Work/DotNet/SE401-Design-Pattern/adapter-sample/bin/Debug/net8.0/adapter-sample.dll
+/home/lakhangdo/Work/DotNet/SE401-Design-Pattern/adapter-sample/bin/Debug/net8.0/adapter-sample.pdb
+/home/lakhangdo/Work/DotNet/SE401-Design-Pattern/adapter-sample/obj/Debug/net8.0/adapter-sample.GeneratedMSBuildEditorConfig.editorconfig
+/home/lakhangdo/Work/DotNet/SE401-Design-Pattern/adapter-sample/obj/Debug/net8.0/adapter-sample.AssemblyInfoInputs.cache
+/home/lakhangdo/Work/DotNet/SE401-Design-Pattern/adapter-sample/obj/Debug/net8.0/adapter-sample.AssemblyInfo.cs
+/home/lakhangdo/Work/DotNet/SE401-Design-Pattern/adapter-sample/obj/Debug/net8.0/adapter-sample.csproj.CoreCompileInputs.cache
+/home/lakhangdo/Work/DotNet/SE401-Design-Pattern/adapter-sample/obj/Debug/net8.0/adapter-sample.sourcelink.json
+/home/lakhangdo/Work/DotNet/SE401-Design-Pattern/adapter-sample/obj/Debug/net8.0/adapter-sample.dll
+/home/lakhangdo/Work/DotNet/SE401-Design-Pattern/adapter-sample/obj/Debug/net8.0/refint/adapter-sample.dll
+/home/lakhangdo/Work/DotNet/SE401-Design-Pattern/adapter-sample/obj/Debug/net8.0/adapter-sample.pdb
+/home/lakhangdo/Work/DotNet/SE401-Design-Pattern/adapter-sample/obj/Debug/net8.0/adapter-sample.genruntimeconfig.cache
+/home/lakhangdo/Work/DotNet/SE401-Design-Pattern/adapter-sample/obj/Debug/net8.0/ref/adapter-sample.dll
